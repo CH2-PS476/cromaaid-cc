@@ -1,10 +1,17 @@
-# Machine Learning Project README
+# Cloud Computing Project README
 
-Welcome to our cc Project
+Welcome to our CC Project!!
 
 ## Project Overview
 
 We're dedicated to supporting the machine learning team in training models on Compute Engine via VM instances. We utilize Jupyter notebooks, converting them to TF Lite for optimized performance. Additionally, we implement firewall rules to access Jupyter notebooks securely. Our scope extends to deploying a web app using App Engine and seamlessly integrating it with Firebase.
+
+Jupyter Notebook:
+http://35.202.1.219:8888/notebooks/ultralytics/color_v1.ipynb
+Web App:
+https://coral-sonar-408101.uc.r.appspot.com/
+Firebase:
+https://console.firebase.google.com/u/0/project/coral-sonar-408101/database/coral-sonar-408101-default-rtdb/data
 
 ## Object Specifications
 
