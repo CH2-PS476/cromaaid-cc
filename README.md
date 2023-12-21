@@ -8,8 +8,10 @@ We're dedicated to supporting the machine learning team in training models on Co
 
 Jupyter Notebook:
 http://35.202.1.219:8888/notebooks/ultralytics/color_v1.ipynb
+
 Web App:
 https://coral-sonar-408101.uc.r.appspot.com/
+
 Firebase:
 https://console.firebase.google.com/u/0/project/coral-sonar-408101/database/coral-sonar-408101-default-rtdb/data
 
